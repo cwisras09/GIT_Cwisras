@@ -1,0 +1,6 @@
+total 16
+drwx------ 5 ec2-user ec2-user 4096 Jun 18 05:29 ..
+-rw-rw-r-- 1 ec2-user ec2-user  114 Jun 18 05:29 README.md
+drwxrwxr-x 8 ec2-user ec2-user 4096 Jun 18 05:30 .git
+-rw-rw-r-- 1 ec2-user ec2-user    0 Jun 18 05:32 a1.txt
+drwxrwxr-x 3 ec2-user ec2-user 4096 Jun 18 05:32 .
